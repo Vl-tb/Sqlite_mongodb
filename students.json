@@ -1,0 +1,10 @@
+{"_id":{"$oid":"672d39e30b6ae082dc19dc5e"},"StudentId":2643291,"FirstName":"John","LastName":"Doe","DateOfBirth":{"$date":"2005-04-30T23:00:00Z"},"PlaceOfBirth":null,"StudentCourses":null}
+{"_id":{"$oid":"672d39e30b6ae082dc19dc60"},"StudentId":10042665,"FirstName":"Anna","LastName":"Smith","DateOfBirth":{"$date":"2004-06-14T23:00:00Z"},"PlaceOfBirth":null,"StudentCourses":null}
+{"_id":{"$oid":"672d39e30b6ae082dc19dc62"},"StudentId":4991566,"FirstName":"David","LastName":"Brown","DateOfBirth":{"$date":"2005-07-19T23:00:00Z"},"PlaceOfBirth":null,"StudentCourses":null}
+{"_id":{"$oid":"672d39e30b6ae082dc19dc64"},"StudentId":10661447,"FirstName":"Olga","LastName":"Petrova","DateOfBirth":{"$date":"2004-03-05T00:00:00Z"},"PlaceOfBirth":null,"StudentCourses":null}
+{"_id":{"$oid":"672d39e30b6ae082dc19dc66"},"StudentId":5980012,"FirstName":"Serhiy","LastName":"Kovalenko","DateOfBirth":{"$date":"2005-12-10T00:00:00Z"},"PlaceOfBirth":null,"StudentCourses":null}
+{"_id":{"$oid":"672d3ce10b6ae082dc19ddb5"},"StudentId":2643291,"FirstName":"John","LastName":"Doe","DateOfBirth":{"$date":"2005-04-30T23:00:00Z"},"PlaceOfBirth":null,"StudentCourses":null}
+{"_id":{"$oid":"672d3ce10b6ae082dc19ddb7"},"StudentId":10042665,"FirstName":"Anna","LastName":"Smith","DateOfBirth":{"$date":"2004-06-14T23:00:00Z"},"PlaceOfBirth":null,"StudentCourses":null}
+{"_id":{"$oid":"672d3ce10b6ae082dc19ddb9"},"StudentId":4991566,"FirstName":"David","LastName":"Brown","DateOfBirth":{"$date":"2005-07-19T23:00:00Z"},"PlaceOfBirth":null,"StudentCourses":null}
+{"_id":{"$oid":"672d3ce10b6ae082dc19ddbb"},"StudentId":10661447,"FirstName":"Olga","LastName":"Petrova","DateOfBirth":{"$date":"2004-03-05T00:00:00Z"},"PlaceOfBirth":null,"StudentCourses":null}
+{"_id":{"$oid":"672d3ce10b6ae082dc19ddbd"},"StudentId":5980012,"FirstName":"Serhiy","LastName":"Kovalenko","DateOfBirth":{"$date":"2005-12-10T00:00:00Z"},"PlaceOfBirth":null,"StudentCourses":null}

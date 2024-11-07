@@ -1,0 +1,14 @@
+/Users/vladprotsenko/Documents/CHNU/Ruby_labs/MySolution/MySolution.DAL/bin/Debug/net8.0/MySolution.DAL.deps.json
+/Users/vladprotsenko/Documents/CHNU/Ruby_labs/MySolution/MySolution.DAL/bin/Debug/net8.0/MySolution.DAL.dll
+/Users/vladprotsenko/Documents/CHNU/Ruby_labs/MySolution/MySolution.DAL/bin/Debug/net8.0/MySolution.DAL.pdb
+/Users/vladprotsenko/Documents/CHNU/Ruby_labs/MySolution/MySolution.DAL/obj/Debug/net8.0/MySolution.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladprotsenko/Documents/CHNU/Ruby_labs/MySolution/MySolution.DAL/obj/Debug/net8.0/MySolution.DAL.AssemblyInfoInputs.cache
+/Users/vladprotsenko/Documents/CHNU/Ruby_labs/MySolution/MySolution.DAL/obj/Debug/net8.0/MySolution.DAL.AssemblyInfo.cs
+/Users/vladprotsenko/Documents/CHNU/Ruby_labs/MySolution/MySolution.DAL/obj/Debug/net8.0/MySolution.DAL.csproj.CoreCompileInputs.cache
+/Users/vladprotsenko/Documents/CHNU/Ruby_labs/MySolution/MySolution.DAL/obj/Debug/net8.0/MySolution.DAL.dll
+/Users/vladprotsenko/Documents/CHNU/Ruby_labs/MySolution/MySolution.DAL/obj/Debug/net8.0/refint/MySolution.DAL.dll
+/Users/vladprotsenko/Documents/CHNU/Ruby_labs/MySolution/MySolution.DAL/obj/Debug/net8.0/MySolution.DAL.pdb
+/Users/vladprotsenko/Documents/CHNU/Ruby_labs/MySolution/MySolution.DAL/obj/Debug/net8.0/ref/MySolution.DAL.dll
+/Users/vladprotsenko/Documents/CHNU/Ruby_labs/MySolution/MySolution.DAL/bin/Debug/net8.0/MySolution.DAL.runtimeconfig.json
+/Users/vladprotsenko/Documents/CHNU/Ruby_labs/MySolution/MySolution.DAL/obj/Debug/net8.0/MySolution.DAL.csproj.AssemblyReference.cache
+/Users/vladprotsenko/Documents/CHNU/Ruby_labs/MySolution/MySolution.DAL/obj/Debug/net8.0/MySolution.DAL.genruntimeconfig.cache
